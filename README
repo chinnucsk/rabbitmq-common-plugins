@@ -1,0 +1,9 @@
+Commonly used RabbitMQ plugins:
+amqp_client, mochiweb, rabbitmq-mochiweb, rabbitmq-management, webmachine
+
+Upstream version of the package should match version of RabbitMQ, e.g.:
+plugins 2.1.0-1234 matches rabbitmq-server-2.1.0-4321
+but plugins 2.1.1-1234 doesn't match rabbitmq-server-2.1.2-1234
+
+Restart RabbitMQ after installing or removing plugins:
+/etc/init.d/rabbitmq-server restart
