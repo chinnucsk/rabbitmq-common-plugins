@@ -1,0 +1,7 @@
+debian/compat
+debian/files
+debian/install
+debian/rabbitmq-common-plugins.debhelper.log
+debian/rabbitmq-common-plugins.substvars
+debian/rabbitmq-common-plugins/
+debian/stamp-makefile-build
