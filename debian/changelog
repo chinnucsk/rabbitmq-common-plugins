@@ -1,0 +1,5 @@
+rabbitmq-common-plugins (2.1.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Anton Lebedevich <a.lebedevich@hh.ru>  Mon, 27 Sep 2010 19:00:52 +0400

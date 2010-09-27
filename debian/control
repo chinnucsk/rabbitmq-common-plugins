@@ -1,0 +1,12 @@
+Source: rabbitmq-common-plugins
+Section: unknown
+Priority: extra
+Maintainer: Anton Lebedevich <a.lebedevich@hh.ru>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.1
+Homepage: http://www.rabbitmq.com/plugins.html
+
+Package: rabbitmq-common-plugins
+Architecture: all
+Depends: rabbitmq-server
+Description: Set of commonly used RabbitMQ plugins: amqp_client, mochiweb, rabbitmq-mochiweb, rabbitmq-management, webmachine
