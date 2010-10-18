@@ -1,3 +1,9 @@
+rabbitmq-common-plugins (2.1.0-3) unstable; urgency=low
+
+  * bql client unzipped
+
+ -- Anton Lebedevich <a.lebedevich@hh.ru>  Mon, 18 Oct 2010 16:07:53 +0400
+
 rabbitmq-common-plugins (2.1.0-2) unstable; urgency=low
 
   * Add bql plugin & client part
