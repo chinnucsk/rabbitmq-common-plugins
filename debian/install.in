@@ -3,5 +3,3 @@ mochiweb-@RABBIT_VERSION@.ez                /usr/lib/rabbitmq/lib/rabbitmq_serve
 rabbitmq-management-@RABBIT_VERSION@.ez     /usr/lib/rabbitmq/lib/rabbitmq_server-@RABBIT_VERSION@/plugins
 rabbitmq-mochiweb-@RABBIT_VERSION@.ez       /usr/lib/rabbitmq/lib/rabbitmq_server-@RABBIT_VERSION@/plugins
 webmachine-@RABBIT_VERSION@.ez              /usr/lib/rabbitmq/lib/rabbitmq_server-@RABBIT_VERSION@/plugins
-rabbitmq-bql-@RABBIT_VERSION@.ez            /usr/lib/rabbitmq/lib/rabbitmq_server-@RABBIT_VERSION@/plugins
-bql-client/*                                /usr/lib/rabbitmq/lib/rabbitmq_server-@RABBIT_VERSION@/bql-client/
