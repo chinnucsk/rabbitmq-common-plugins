@@ -1,5 +1,6 @@
 amqp_client-@RABBIT_VERSION@.ez             /usr/lib/rabbitmq/lib/rabbitmq_server-@RABBIT_VERSION@/plugins
 mochiweb-@RABBIT_VERSION@.ez                /usr/lib/rabbitmq/lib/rabbitmq_server-@RABBIT_VERSION@/plugins
 rabbitmq-management-@RABBIT_VERSION@.ez     /usr/lib/rabbitmq/lib/rabbitmq_server-@RABBIT_VERSION@/plugins
+rabbitmq-management-agent-@RABBIT_VERSION@.ez     /usr/lib/rabbitmq/lib/rabbitmq_server-@RABBIT_VERSION@/plugins
 rabbitmq-mochiweb-@RABBIT_VERSION@.ez       /usr/lib/rabbitmq/lib/rabbitmq_server-@RABBIT_VERSION@/plugins
 webmachine-@RABBIT_VERSION@.ez              /usr/lib/rabbitmq/lib/rabbitmq_server-@RABBIT_VERSION@/plugins

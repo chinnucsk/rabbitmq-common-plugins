@@ -1,3 +1,9 @@
+rabbitmq-common-plugins (2.2.0-1) unstable; urgency=low
+
+  * updated to 2.2.0
+
+ -- Anton Lebedevich <a.lebedevich@hh.ru>  Wed, 01 Dec 2010 19:25:06 +0300
+
 rabbitmq-common-plugins (2.1.1-1) unstable; urgency=low
 
   * updated to 2.1.1, bql removed
