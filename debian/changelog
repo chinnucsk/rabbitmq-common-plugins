@@ -1,3 +1,9 @@
+rabbitmq-common-plugins (2.3.1-1) karmic; urgency=low
+
+  * updated to 2.3.1 
+
+ -- Anton Lebedevich <a.lebedevich@hh.ru>  Fri, 18 Mar 2011 19:11:32 +0300
+
 rabbitmq-common-plugins (2.2.0-1) unstable; urgency=low
 
   * updated to 2.2.0
